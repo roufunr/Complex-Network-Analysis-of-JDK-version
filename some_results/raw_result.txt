@@ -1,0 +1,86 @@
+Max, Max_in, Max_out
+(5930, 5920, 95)
+(2129, 594, 1810)
+(2248, 617, 1931)
+
+
+avg_degree, mean_distance, diameter
+(16.679515076157912, 2.119869807920875, 7)
+(219.44374829746664, 2.6977451221259194, 9)
+(212.2176245210728, 2.7068283549703036, 9)
+
+
+Reciprocity, cc
+(0.0, 0.6706535597218926)
+(0.0, 0.5448868504786757)
+(0.0, 0.5096431052537288)
+
+
+
+(Degree, between, eigenvector, page rank)
+(0.002592805079458715, 0.0001741091119279902, 0.008379193984937963, 0.0001554243083618272)
+(0.05979393686579471, 0.00046272693434884737, 0.009195749317939195, 0.00027240533914464664)
+(0.05422013912137783, 0.0004361943150959121, 0.008751886328574028, 0.00025542784163473865)
+
+
+Avg Degree centrality for idk1.6 0.002592805079458715
+Avg Degree centrality for idk1.7 0.05979393686579471
+Avg Degree centrality for idk1.8 0.05422013912137783
+
+Avg Betweenness centrality for idk1.6 0.0001741091119279902
+Avg Betweenness centrality for idk1.7 0.00046272693434884737
+Avg Betweenness centrality for idk1.8 0.0004361943150959121
+
+Avg Eigenvector centrality for idk1.6 0.008379193984937963
+Avg Eigenvector centrality for idk1.7 0.009195749317939195
+Avg Eigenvector centrality for idk1.8 0.008751886328574028
+
+Avg Pagerank centrality for idk1.6 0.0001554243083618272
+Avg Pagerank centrality for idk1.7 0.00027240533914464664
+Avg Pagerank centrality for idk1.8 0.00025542784163473865
+
+Global Clustering coefficient for jdk 1.6 0.6706535597218926
+Global Clustering coefficient for jdk 1.7 0.5448868504786757
+Global Clustering coefficient for jdk 1.8 0.5096431052537288
+
+
+(Degree, between, eigenvector, page rank)
+(0.002592805079458715, 0.0001741091119279902, 0.008379193984937963, 0.0001554243083618272)
+(0.05979393686579471, 0.00046272693434884737, 0.009195749317939195, 0.00027240533914464664)
+(0.05422013912137783, 0.0004361943150959121, 0.008751886328574028, 0.00025542784163473865)
+
+
+1.6
+Degree Centrality java.lang.String
+Betweenness Centrality java.lang.String
+Eigen Centrality java.lang.String
+Page rank Centrality java.lang.String
+
+
+1.7
+Degree Centrality javax.swing.plaf.synth.SynthLookAndFeel
+Betweenness Centrality java.util.prefs.XmlSupport
+Eigen Centrality javax.swing.plaf.synth.SynthLookAndFeel
+Page rank Centrality java.util.prefs.XmlSupport
+
+
+1.8
+Degree Centrality javax.swing.plaf.synth.SynthLookAndFeel
+Betweenness Centrality java.util.prefs.XmlSupport
+Eigen Centrality javax.swing.plaf.synth.SynthLookAndFeel
+Page rank Centrality java.util.prefs.XmlSupport
+
+
+
+1.6 to 1.7
+Fraction of appearing nodes: 0.05564190239353435
+Fraction of disappearing nodes: 0.4850792663972645
+Fraction of appearing links: 7.374072831637407
+Fraction of disappearing links: 0.5380744716538074
+
+
+1.7 to 1.8
+Fraction of appearing nodes: 0.06946336148188505
+Fraction of disappearing nodes: 0.0029964587305911197
+Fraction of appearing links: 0.07552589569228554
+Fraction of disappearing links: 0.019526352507143938
